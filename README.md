@@ -15,7 +15,7 @@
 
  Get a deeper understanding of how pyhon works through online lectures, labs and projects:
 
- [cs-61a](https://cs61a.org/)
+ [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)
 
 ## Recommendations for Understanding Deeplearning and its applications:
  Beginner to Deep Learning:
@@ -48,7 +48,7 @@
 
   ### UC Berkeley:
   
-  [Data Structures](https://inst.eecs.berkeley.edu/~cs61b/sp20/)
+  [CS 61B: Data Structures](https://inst.eecs.berkeley.edu/~cs61b/sp20/)
 
   [CS 61C: Computer Architecture (Machine Structures)](https://cs61c.org/)
 
