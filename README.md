@@ -71,15 +71,15 @@
  
  ### Online Resources:
 
- -[Hackerrank](https://www.hackerrank.com/):
+ - [Hackerrank](https://www.hackerrank.com/):
 
- -[Leetcode](https://leetcode.com/):
+ - [Leetcode](https://leetcode.com/):
 
- -[AlgoExpert](https://www.algoexpert.io/product):
+ - [AlgoExpert](https://www.algoexpert.io/product):
 
- -[CodeForces](https://codeforces.com/):
+ - [CodeForces](https://codeforces.com/):
 
- -[CodeWars](https://www.codewars.com/):
+ - [CodeWars](https://www.codewars.com/):
 
  
 
