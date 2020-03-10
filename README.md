@@ -20,7 +20,7 @@
 ## Recommendations for Understanding Deeplearning and its applications:
  Beginner to Deep Learning:
 
- [deeplearning.ai](deeplearning.ai)
+ [deeplearning.ai](https://www.deeplearning.ai/)
 
  Machine Learning with MATHLAB:
 
