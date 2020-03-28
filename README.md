@@ -41,10 +41,22 @@
 
 ## A selection of free online courses recommended by the Officers:
   ### Stanford University:
-
+  
+  [CS230 Deep Learning - Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+   
   [CS231N Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
   [CS224N Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_)
+
+  [CS221 AI - Dorsa Sadigh](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+  
+  [CS330 Multi-Task and Meta-Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+  
+  [CS224U Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+
+  [CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+  [(Old) CS224N NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
   ### UC Berkeley:
   
@@ -55,7 +67,9 @@
   [CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp20/)
 
   ### MIT:
-
+  
+  [6.S191 MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  
   [MIT OCW: MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
 
   ### Harvard:
