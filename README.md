@@ -66,6 +66,12 @@
 
   [CS 188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp20/)
 
+  [CS 189: Introduction to Machine Learning](https://www.eecs189.org/)
+  
+  [DATA 8: Foundations of Data Science](http://data8.org/)
+
+  [DATA 100: Principles and Techniques of Data Science](http://www.ds100.org/)
+
   ### MIT:
   
   [6.S191 MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
@@ -85,7 +91,7 @@
  
  ### Online Resources:
 
- - [Hackerrank](https://www.hackerrank.com/):
+ - [Hackerrank](https://www.hackerrank.com/): 
 
  - [Leetcode](https://leetcode.com/):
 
