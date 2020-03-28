@@ -93,13 +93,13 @@
 
  - [Hackerrank](https://www.hackerrank.com/): HackerRank is a tech company that focuses on competitive programming challenges for both consumers and businesses, where developers compete by trying to program according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, JavaScript) and span multiple computer science domains.
 
- - [Leetcode](https://leetcode.com/):LeetCode provides you hands-on training on real coding interview questions. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience.
+ - [Leetcode](https://leetcode.com/): LeetCode provides you hands-on training on real coding interview questions. The Online Judge gives you immediate feedback on the correctness and efficiency of your algorithm which facilitates a great learning experience.
 
  - [AlgoExpert](https://www.algoexpert.io/product): A resource to prepare for coding interviews. Everything you need, in one streamlined platform.
 
- - [CodeForces](https://codeforces.com/):Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers.As of 2018, it has over 600,000 registered users. Codeforces along with other similar websites are used by top sport programmers like Gennady Korotkevich, Petr Mitrichev and Makoto Soejima, but also non-celebrity programmers interested in furthering their careers.
+ - [CodeForces](https://codeforces.com/): Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers.As of 2018, it has over 600,000 registered users. Codeforces along with other similar websites are used by top sport programmers like Gennady Korotkevich, Petr Mitrichev and Makoto Soejima, but also non-celebrity programmers interested in furthering their careers.
 
- - [CodeWars](https://www.codewars.com/):Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment. On Codewars the community and challenge progression is gamified, with users earning ranks and honor for completing kata, contributing kata, and quality solutions.
+ - [CodeWars](https://www.codewars.com/): Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment. On Codewars the community and challenge progression is gamified, with users earning ranks and honor for completing kata, contributing kata, and quality solutions.
 
  
 
